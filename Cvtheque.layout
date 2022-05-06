@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="Candidat.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="465" topLine="23" />
+		</Cursor>
+		<Folding>
+			<Collapse line="39" />
+			<Collapse line="103" />
+			<Collapse line="143" />
+			<Collapse line="180" />
+			<Collapse line="265" />
+			<Collapse line="281" />
+		</Folding>
+	</File>
+	<File name="Experience.h" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="171" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Experience.c" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1814" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="4" />
+			<Collapse line="15" />
+			<Collapse line="34" />
+			<Collapse line="70" />
+			<Collapse line="103" />
+			<Collapse line="140" />
+			<Collapse line="197" />
+			<Collapse line="218" />
+		</Folding>
+	</File>
+	<File name="Langues.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="140" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Competence.h" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1802" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="11" />
+			<Collapse line="67" />
+		</Folding>
+	</File>
+	<File name="Formation.h" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="184" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Langues.c" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7233" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="13" />
+			<Collapse line="31" />
+			<Collapse line="68" />
+			<Collapse line="94" />
+			<Collapse line="131" />
+			<Collapse line="187" />
+			<Collapse line="203" />
+		</Folding>
+	</File>
+	<File name="Candidat.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="130" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Cv.c" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8053" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="12" />
+			<Collapse line="30" />
+			<Collapse line="64" />
+			<Collapse line="79" />
+			<Collapse line="126" />
+			<Collapse line="158" />
+			<Collapse line="216" />
+		</Folding>
+	</File>
+	<File name="Competence.c" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4832" topLine="2" />
+		</Cursor>
+		<Folding>
+			<Collapse line="12" />
+			<Collapse line="30" />
+			<Collapse line="59" />
+			<Collapse line="86" />
+			<Collapse line="126" />
+			<Collapse line="179" />
+			<Collapse line="195" />
+		</Folding>
+	</File>
+	<File name="Cv.h" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Formation.c" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8098" topLine="31" />
+		</Cursor>
+		<Folding>
+			<Collapse line="16" />
+			<Collapse line="34" />
+			<Collapse line="75" />
+			<Collapse line="105" />
+			<Collapse line="142" />
+			<Collapse line="206" />
+		</Folding>
+	</File>
+	<Target name="Debug" top="Candidat.c">
+		<File name="Candidat.c" />
+		<File name="Langues.h" />
+		<File name="Cv.c" />
+		<File name="Experience.c" />
+		<File name="Competence.c" />
+		<File name="Formation.c" />
+		<File name="Candidat.h" />
+		<File name="main.c" />
+		<File name="Langues.c" />
+		<File name="Cv.h" />
+		<File name="Experience.h" />
+		<File name="Competence.h" />
+		<File name="Formation.h" />
+	</Target>
+</CodeBlocks_layout_file>

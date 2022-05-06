@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1643416177 source:c:\users\hicha\onedrive\bureau\cvtheque\candidat.c
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+
+1643418618 source:c:\users\hicha\onedrive\bureau\cvtheque\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Candidat.h"
+	"Langues.h"
+	"Cv.h"
+	"Experience.h"
+	"Competence.h"
+	"Formation.h"
+
+1643018211 c:\users\hicha\onedrive\bureau\cvtheque\candidat.h
+
+1643028568 source:c:\users\hicha\onedrive\bureau\cvtheque\tlangues.c
+	<stdio.h>
+	<stdlib.h>
+
+1643401634 c:\users\hicha\onedrive\bureau\cvtheque\langues.h
+
+1643416549 source:c:\users\hicha\onedrive\bureau\cvtheque\langues.c
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+
+1643416382 source:c:\users\hicha\onedrive\bureau\cvtheque\cv.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1643207481 c:\users\hicha\onedrive\bureau\cvtheque\cv.h
+
+1643418923 source:c:\users\hicha\onedrive\bureau\cvtheque\experience.c
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+
+1643416300 source:c:\users\hicha\onedrive\bureau\cvtheque\competence.c
+	<stdio.h>
+	<stdlib.h>
+
+1643416456 source:c:\users\hicha\onedrive\bureau\cvtheque\formation.c
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+
+1643418540 c:\users\hicha\onedrive\bureau\cvtheque\experience.h
+
+1643386432 c:\users\hicha\onedrive\bureau\cvtheque\competence.h
+
+1643407895 c:\users\hicha\onedrive\bureau\cvtheque\formation.h
+
+1643416177 source:c:\users\hicha\onedrive\bureau\projects\gestion_de_cvtheque (-c-)\candidat.c
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+
+1643416300 source:c:\users\hicha\onedrive\bureau\projects\gestion_de_cvtheque (-c-)\competence.c
+	<stdio.h>
+	<stdlib.h>
+
+1643416382 source:c:\users\hicha\onedrive\bureau\projects\gestion_de_cvtheque (-c-)\cv.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1643418923 source:c:\users\hicha\onedrive\bureau\projects\gestion_de_cvtheque (-c-)\experience.c
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+
+1643416456 source:c:\users\hicha\onedrive\bureau\projects\gestion_de_cvtheque (-c-)\formation.c
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+
+1643416549 source:c:\users\hicha\onedrive\bureau\projects\gestion_de_cvtheque (-c-)\langues.c
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+
+1643418618 source:c:\users\hicha\onedrive\bureau\projects\gestion_de_cvtheque (-c-)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Candidat.h"
+	"Langues.h"
+	"Cv.h"
+	"Experience.h"
+	"Competence.h"
+	"Formation.h"
+
+1643018211 c:\users\hicha\onedrive\bureau\projects\gestion_de_cvtheque (-c-)\candidat.h
+
+1643401634 c:\users\hicha\onedrive\bureau\projects\gestion_de_cvtheque (-c-)\langues.h
+
+1643207481 c:\users\hicha\onedrive\bureau\projects\gestion_de_cvtheque (-c-)\cv.h
+
+1643418540 c:\users\hicha\onedrive\bureau\projects\gestion_de_cvtheque (-c-)\experience.h
+
+1643386432 c:\users\hicha\onedrive\bureau\projects\gestion_de_cvtheque (-c-)\competence.h
+
+1643407895 c:\users\hicha\onedrive\bureau\projects\gestion_de_cvtheque (-c-)\formation.h
+
